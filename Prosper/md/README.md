@@ -1256,15 +1256,6 @@ df_historical["LoanStatus"].value_counts()
 df_historical["LoanStatus"] = (df_historical["LoanStatus"] == "Completed").astype(int)
 ```
 
-    /Users/jia/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:2: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
-      
-
-
-
 ```python
 df_historical.to_csv('df_historical.csv')
 ```
