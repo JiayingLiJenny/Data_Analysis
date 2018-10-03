@@ -1001,7 +1001,7 @@ miss[miss['缺失率%']<5]
 
 
 #### BorrowerAPR缺失值填充
-因为BorrowerRate没有缺失值，同时BorrowerAPR与BOrrowerAPR存在一定程度的相关性：BorrowerAPR = BorrowerRate + fees，fees代表其他费用利率。
+因为BorrowerRate没有缺失值，同时BorrowerAPR与BorrowerAPR存在一定程度的相关性：BorrowerAPR = BorrowerRate + fees，fees代表其他费用利率。
 
 
 ```python
