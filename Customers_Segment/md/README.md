@@ -35,6 +35,8 @@ Attribute Information:
 * (7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal) 
 * (8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal) 
 
+[观察数据集的统计学描述内容&探索缺失值](### 1. 观察数据集的统计学描述内容&探索缺失值)
+
 ## 一. 数据加载及探索
 
 
@@ -65,6 +67,7 @@ except:
 ```
 
     Wholesale customers dataset has 440 samples with 6 features each.
+
 
 
 ### 1. 观察数据集的统计学描述内容&探索缺失值
