@@ -35,7 +35,6 @@ Attribute Information:
 * (7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal) 
 * (8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal) 
 
-[观察数据集的统计学描述内容&探索缺失值](https://github.com/JiayingLiJenny/Data_Analysis/blob/master/Customers_Segment/md/README.md ### 1. 观察数据集的统计学描述内容&探索缺失值)
 
 ## 一. 数据加载及探索
 
