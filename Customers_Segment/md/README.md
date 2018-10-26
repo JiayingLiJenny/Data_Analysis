@@ -1,6 +1,6 @@
 
 # 项目：细分客户群体
-<img src="思维导图.png" width=800 align=left />
+<img src="思维导图.png" width=850 align=left />
 
 
 
