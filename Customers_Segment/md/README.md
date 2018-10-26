@@ -2,7 +2,9 @@
 # 项目：细分客户群体
 <img src="思维导图.png" width=800 align=left />
 
-_________________________________________________________________
+
+
+
 ## 背景分析
 
 这是一家给不同商家提供不同种类产品的批发商。
@@ -35,8 +37,7 @@ Attribute Information:
 * (5) DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous) 
 * (6) DELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous); 
 * (7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal) 
-* (8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal) 
-
+* (8) REGION: customersâ€™ Region â€“ Lisnonporto or Other (Nominal) 
 
 ## 一. 数据加载及探索
 
