@@ -1,5 +1,6 @@
 
 # 项目：细分客户群体
+<img src="思维导图.png" width=750 align=left />
 
 ## 背景分析
 
