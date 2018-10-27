@@ -2,7 +2,7 @@
 # 项目：电商平台店铺情况分析（基于shopee平台女装类店铺数据）
 
 
-<img src="思维导图.png" width="800"  align=left />
+<img src="思维导图.png" width="850"  align=left />
 
 ## 一. 背景分析
 
