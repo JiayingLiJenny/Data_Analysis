@@ -537,15 +537,10 @@ df = df.drop(['Rating','Joined','Ship_Out_Time'],axis=1)
 df.to_csv('cleaned_shops.csv', index=False)
 ```
 
+
 <div id="DataAnalysis"></div>
 ## 五. 数据分析
-
-
-
-```python
 数据清洗好后，运用Tableau进行数据分析及可视化。
-```
-
 
 ### 分析思路
 主要按以下几个方向进行分析：
