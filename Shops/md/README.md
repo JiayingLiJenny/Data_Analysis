@@ -2,7 +2,7 @@
 # 项目：电商平台店铺情况分析（基于shopee平台女装类店铺数据）
 
 
-<img src="思维导图.png" width="850"  align=left />
+<img src="思维导图.png" width="900"  align=left />
 
 ___________________________________________________________________________________
 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 [跳转到数据清洗页面](#cleanData)
 
 ## 五. 数据分析
-[跳转到数据分析页面](#DataAnalysis)
+[跳转到数据分析页面](#dataanalysis)
 
 ## 六. 分析报告
 [跳转到分析报告页面](#report)
@@ -540,7 +540,7 @@ df = df.drop(['Rating','Joined','Ship_Out_Time'],axis=1)
 df.to_csv('cleaned_shops.csv', index=False)
 ```
 
-<div id="DataAnalysis"></div>
+<div id="dataanalysis"></div>
 
 ## 五. 数据分析
 
