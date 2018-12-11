@@ -398,6 +398,7 @@ df.drop_duplicates(inplace=True)
 df.to_csv('cleaned_videos.csv', index=False)
 ```
 
+##### （由于Tableau具有很好的可视化效果，接下来的分析Tableau进行）
 ## 一. 关注情况分析
 （某类）总次数 = 视频数量 * （某类）平均次数
 
