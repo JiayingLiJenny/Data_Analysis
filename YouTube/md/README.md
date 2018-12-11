@@ -599,8 +599,9 @@ likes所占百分比 = likes数量 /（likes数量+dislikes数量）
 出错或被删除视频发布时间集中在2017和2018年中。
 
 ## 四. 词云分析视频相关文本信息
+构建词云进行分析能帮助我们了解整体的趋势，可以起到监督的作用。
 
-主要分析Title, Channel-Title, Tags, Description中的文本进行
+主要对Title, Channel-Title, Tags, Description中的文本进行分析。
 
 
 ```python
